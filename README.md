@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Instagram Basic Design - Part 1</h1>
+🏡Instagram Basic Design - Part 1</h1>
 This project is aimed at creating the basic design of the backend of Instagram. This Readme.md file will guide you through the project setup, the models used, and the API endpoints available.
 
 >### Prerequisites
