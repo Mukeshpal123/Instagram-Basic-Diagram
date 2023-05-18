@@ -77,7 +77,7 @@ This project is aimed at creating the basic design of the backend of Instagram. 
 
 >## Contributors
 
-Suvadip Majhi(suvadipmajhi1997)
+	*Mukesh Pal
 
 >## Project Summary
 This project includes the basic design of the backend of Instagram, including user and post models, and API endpoints for user authentication and post creation/retrieval. Further improvements can be made to include additional features such as comment and like functionality.
